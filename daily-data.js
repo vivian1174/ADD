@@ -4,7 +4,7 @@ const wellsData = [
         "wellName": "DAVIES 24-13-12HC NO. 1 ALT",
         "isActive": true,
         "location": "Bienville, Louisiana",
-        "status": "Frac Stage 40 of 54",
+        "status": "Frac Stage 40 of 54 completed, Stage 41 perforated",
         "phase": "Fracking",
         "reportDate": "2026/3/9",
         "currentMD": 20719,
@@ -14,17 +14,17 @@ const wellsData = [
         "actualVertical": 13097,
         "actualHorizontal": 7622,
         "costIncurred": 3406217,
-        "estimatedCost": 4500000,
+        "estimatedCost": 6380000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed frac stages 37-40 with successful proppant placement. Performed perforation operations and equipment maintenance. All safety systems operational with walkthrough inspection completed."
+        "dailyNotes": "Completed frac stages 37-40, performed perforations for stages 38-41. All stages achieved 100% proppant placement with ISIP ranging 6,670-8,342 psi. Waiting on Innospec equipment for next operations."
     },
     {
         "id": "W-20260310",
         "wellName": "DAVIES 23-14-11HC NO. 1 ALT",
         "isActive": true,
         "location": "Bienville, Louisiana",
-        "status": "Frac Stage 38-42 of 67",
+        "status": "Frac Stage 42 of 67 completed, Stage 43 perforated",
         "phase": "Fracking",
         "reportDate": "2026/3/9",
         "currentMD": 21876,
@@ -34,9 +34,9 @@ const wellsData = [
         "actualVertical": 12905.8,
         "actualHorizontal": 8970.2,
         "costIncurred": 3495884.84,
-        "estimatedCost": 4500000,
+        "estimatedCost": 6384000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed frac stages 38-42. Stage 38 had Texas Flood water trouble, Stage 40 experienced HES XL fluid lining issues. Stages 39,41,42 completed successfully. Extended maintenance performed."
+        "dailyNotes": "Completed frac stages 38-42, performed perforations for stages 39-43. Stage 40 had NPPT due to HES XL fluid issues. Extended pump maintenance conducted with safety walkthrough inspection."
     }
 ];
