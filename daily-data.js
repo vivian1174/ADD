@@ -4,7 +4,7 @@ const wellsData = [
         "wellName": "DAVIES 24-13-12HC NO. 1 ALT",
         "isActive": true,
         "location": "Bienville, Louisiana",
-        "status": "Frac Stage 40 of 54 completed, Stage 41 perforated",
+        "status": "Frac Stage 40 of 54 completed",
         "phase": "Fracking",
         "reportDate": "2026/3/9",
         "currentMD": 20719,
@@ -17,26 +17,26 @@ const wellsData = [
         "estimatedCost": 6380000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed frac stages 37-40, performed perforations for stages 38-41. All stages achieved 100% proppant placement with ISIP ranging 6,670-8,342 psi. Waiting on Innospec equipment for next operations."
+        "dailyNotes": "Completed frac stages 37-40 of 54 total stages. Performed perforating and fracturing operations with 100% proppant placement achieved on all stages. Equipment maintenance and safety inspections conducted."
     },
     {
         "id": "W-20260310",
         "wellName": "DAVIES 23-14-11HC NO. 1 ALT",
         "isActive": true,
         "location": "Bienville, Louisiana",
-        "status": "Frac Stage 42 of 67 completed, Stage 43 perforated",
+        "status": "Frac Stage 43 of 67",
         "phase": "Fracking",
         "reportDate": "2026/3/9",
         "currentMD": 21876,
-        "currentTVD": 12905.8,
-        "plannedVertical": 12905.8,
-        "plannedHorizontal": 8970.2,
-        "actualVertical": 12905.8,
-        "actualHorizontal": 8970.2,
-        "costIncurred": 3495884.84,
+        "currentTVD": 12906,
+        "plannedVertical": 12906,
+        "plannedHorizontal": 8970,
+        "actualVertical": 12906,
+        "actualHorizontal": 8970,
+        "costIncurred": 3495885,
         "estimatedCost": 6384000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed frac stages 38-42, performed perforations for stages 39-43. Stage 40 had NPPT due to HES XL fluid issues. Extended pump maintenance conducted with safety walkthrough inspection."
+        "dailyNotes": "Completed frac stages 38-42, performed perforation operations, encountered XL fluid lineup issues on stage 40 causing NPPT, conducted safety walkthrough inspection, all stages achieved 100% proppant placement"
     }
 ];
