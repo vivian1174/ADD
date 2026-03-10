@@ -1,10 +1,30 @@
 const wellsData = [
     {
         "id": "W-20260310",
+        "wellName": "DAVIES 24-13-12HC NO. 1 ALT",
+        "isActive": true,
+        "location": "Bienville, Louisiana",
+        "status": "Frac Stage 40 of 54",
+        "phase": "Fracking",
+        "reportDate": "2026/3/9",
+        "currentMD": 20719,
+        "currentTVD": 13097,
+        "plannedVertical": 13097,
+        "plannedHorizontal": 7622,
+        "actualVertical": 13097,
+        "actualHorizontal": 7622,
+        "costIncurred": 3406217,
+        "estimatedCost": 4500000,
+        "rop": 0,
+        "mudWeight": 0,
+        "dailyNotes": "Completed frac stages 37-40 with successful proppant placement. Performed perforation operations and equipment maintenance. All safety systems operational with walkthrough inspection completed."
+    },
+    {
+        "id": "W-20260310",
         "wellName": "DAVIES 23-14-11HC NO. 1 ALT",
         "isActive": true,
         "location": "Bienville, Louisiana",
-        "status": "Frac Stage 38, 39, 40, 41, 42 of 67",
+        "status": "Frac Stage 38-42 of 67",
         "phase": "Fracking",
         "reportDate": "2026/3/9",
         "currentMD": 21876,
@@ -17,6 +37,6 @@ const wellsData = [
         "estimatedCost": 4500000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed frac stages 38-42 of 67. Stage 38 NPPT due to Texas Flood losing prime. Stage 40 had XL fluid lineup issues. Stages 39, 41, 42 completed successfully with 100% prop placement. Extended pump maintenance performed."
+        "dailyNotes": "Completed frac stages 38-42. Stage 38 had Texas Flood water trouble, Stage 40 experienced HES XL fluid lining issues. Stages 39,41,42 completed successfully. Extended maintenance performed."
     }
 ];
