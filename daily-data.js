@@ -1,10 +1,10 @@
 const wellsData = [
     {
-        "id": "W-20260310",
+        "id": "W-20260309",
         "wellName": "DAVIES 23-14-11HC NO. 1 ALT",
         "isActive": true,
         "location": "Bienville, Louisiana",
-        "status": "Frac Stage 42 of 67",
+        "status": "Frac Stage 38-42 of 67",
         "phase": "Fracking",
         "reportDate": "2026/3/9",
         "currentMD": 21876,
@@ -14,9 +14,9 @@ const wellsData = [
         "actualVertical": 12905.8,
         "actualHorizontal": 8970.2,
         "costIncurred": 3495884.84,
-        "estimatedCost": 3824523.04,
+        "estimatedCost": 4000000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed Frac Stages 38-42. Stage 38 had NPPT due to Texas Flood losing prime. Stage 40 experienced delays with HES unable to get XL fluids lined out. Extended pump maintenance performed including walkthrough inspection. All stages achieved 100% prop placement with average pressures 11,900-12,400 psi and rates 78-86 bpm."
+        "dailyNotes": "Completed frac stages 38-42 with avg pressure 12,115 psi and avg rate 82.1 bpm. Stage 38 had Texas Flood NPPT issues. Stage 40 experienced XL fluid lineup problems requiring 0.27hr NPPT. Extended pump maintenance performed. All stages achieved 100% prop placement."
     }
 ];
