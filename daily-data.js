@@ -1,6 +1,6 @@
 const wellsData = [
     {
-        "id": "W-20260312",
+        "id": "W-20260311",
         "wellName": "WY CO 2-35-26HC NO. 1",
         "isActive": true,
         "location": "Bienville, Louisiana",
@@ -17,10 +17,10 @@ const wellsData = [
         "estimatedCost": 7659000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed frac stage 1 and 2, performed stage 3 perforation. Communication issues with silos resolved. Lightning delay for wireline operations."
+        "dailyNotes": "Completed Frac Stage 1 and 2, performed Stage 2 and 3 perforations. Equipment communication issues resolved, waiting for weather clearance due to lightning."
     },
     {
-        "id": "W-20260312",
+        "id": "W-20260311",
         "wellName": "DAVIES 24-13-12HC NO. 1 ALT",
         "isActive": true,
         "location": "Bienville, Louisiana",
@@ -37,7 +37,7 @@ const wellsData = [
         "estimatedCost": 6380000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed frac stages 43-47 with Innospec liquid FR trial on stages 44-45. All stages achieved 100% prop placement with good ISIP values."
+        "dailyNotes": "Completed frac stages 43-47 with Innospec liquid FR trial on stages 44-45. Performed walkthrough inspection and equipment maintenance."
     },
     {
         "id": "W-20260311",
@@ -49,14 +49,14 @@ const wellsData = [
         "reportDate": "2026/3/11",
         "currentMD": 21876,
         "currentTVD": 12905.8,
-        "plannedVertical": null,
-        "plannedHorizontal": null,
+        "plannedVertical": 12905.8,
+        "plannedHorizontal": 8970.2,
         "actualVertical": 12905.8,
-        "actualHorizontal": null,
+        "actualHorizontal": 8970.2,
         "costIncurred": 4071879.41,
         "estimatedCost": 6384000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed frac stages 46-49, performed Innospec liquid FR trial on stage 47, currently running in hole for perf stage 50 of 67 total stages."
+        "dailyNotes": "Completed frac stages 46-49 with Innospec liquid FR trial on stage 47. Currently running in hole to perf stage 50 of 67 total stages."
     }
 ];
