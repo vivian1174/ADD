@@ -1,30 +1,30 @@
 const wellsData = [
     {
-        "id": "W-20260312",
+        "id": "W-20260311",
         "wellName": "WY CO 2-35-26HC NO. 1",
         "isActive": true,
         "location": "Bienville, Louisiana",
-        "status": "Frac Stage 2 of 67",
+        "status": "Frac Stage 2",
         "phase": "Fracking",
         "reportDate": "2026/3/11",
         "currentMD": 25090,
-        "currentTVD": 14930,
+        "currentTVD": 14615,
         "plannedVertical": 14930,
         "plannedHorizontal": 10160,
-        "actualVertical": 14930,
-        "actualHorizontal": 10160,
+        "actualVertical": 14615,
+        "actualHorizontal": 10475,
         "costIncurred": 536108,
         "estimatedCost": 7659000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed frac stage 1 with communication issues on silos affecting sand concentration. Performed stage 2 and 3 perforations with wireline. Operations delayed by lightning safety requirements."
+        "dailyNotes": "Completed Frac Stage 1 and Stage 2, performed wireline operations for Stage 3 perforation. Communication issues with silos resolved during Stage 1 operations."
     },
     {
-        "id": "W-20260312",
+        "id": "W-20260311",
         "wellName": "DAVIES 24-13-12HC NO. 1 ALT",
         "isActive": true,
         "location": "Bienville, Louisiana",
-        "status": "Treating Stage 47 of 54",
+        "status": "Treating Stage 47 at report time",
         "phase": "Fracking",
         "reportDate": "2026/3/11",
         "currentMD": 20719,
@@ -33,14 +33,14 @@ const wellsData = [
         "plannedHorizontal": 7622,
         "actualVertical": 13097,
         "actualHorizontal": 7622,
-        "costIncurred": 3809965,
+        "costIncurred": 3809964.86,
         "estimatedCost": 6380000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed frac stages 43-47, with Innospec liquid FR trials on stages 44-45. All stages achieved 100% prop placement with average rates of 85-89 bpm and pressures around 10,500-11,500 psi."
+        "dailyNotes": "Completed frac stages 43-47 including Innospec liquid FR trial on stages 44-45. All stages achieved 100% prop placement with good ISIP results."
     },
     {
-        "id": "W-20260312",
+        "id": "W-20260311",
         "wellName": "DAVIES 23-14-11HC NO. 1 ALT",
         "isActive": true,
         "location": "Bienville, Louisiana",
@@ -49,14 +49,14 @@ const wellsData = [
         "reportDate": "2026/3/11",
         "currentMD": 21876,
         "currentTVD": 12905.8,
-        "plannedVertical": 12905.8,
-        "plannedHorizontal": 8970.2,
+        "plannedVertical": 12906,
+        "plannedHorizontal": 8970,
         "actualVertical": 12905.8,
         "actualHorizontal": 8970.2,
         "costIncurred": 4071879.41,
         "estimatedCost": 6384000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed frac stages 46-49, performed perforation for stage 50. Innospec liquid FR trial conducted on stage 47. Operations interrupted by lightning causing temporary shutdown during stage 50."
+        "dailyNotes": "Completed frac stages 46-49, conducted Innospec liquid FR trial on stage 47, performed perforation for stage 50, operations interrupted by lightning causing shutdown and resume."
     }
 ];
