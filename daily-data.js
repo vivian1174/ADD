@@ -1,23 +1,23 @@
 const wellsData = [
     {
-        "id": "W-20260317",
+        "id": "W-20260319",
         "wellName": "WY CO 2-35-26HC NO. 1",
         "isActive": true,
         "location": "Bienville, Louisiana",
-        "status": "Frac Stg 20",
+        "status": "FRAC STG 23",
         "phase": "Fracking",
-        "reportDate": "2026/3/17",
+        "reportDate": "2026/3/18",
         "currentMD": 25090,
-        "currentTVD": 14615.3,
+        "currentTVD": 14930.2,
         "plannedVertical": 14930.2,
         "plannedHorizontal": 10159.8,
-        "actualVertical": 14615.3,
-        "actualHorizontal": 10474.7,
-        "costIncurred": 2493568.03,
+        "actualVertical": 14930.2,
+        "actualHorizontal": 10159.8,
+        "costIncurred": 2987804.81,
         "estimatedCost": 7659000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed perf and frac operations for stages 19-21 with high pressure issues in stage 19. Stage 20 stopped at 80% due to extended pump time."
+        "dailyNotes": "Completed frac stages 20-23 of 73. Stage 20 stopped at 80% due to extended pump time. Stage 21 perforated with no plug. Stages 22 and 23 completed successfully with 100% proppant placed."
     },
     {
         "id": "W-20260318",
