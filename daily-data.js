@@ -1,23 +1,23 @@
 const wellsData = [
     {
-        "id": "W-20260319",
+        "id": "W-20260322",
         "wellName": "WY CO 2-35-26HC NO. 1",
         "isActive": true,
         "location": "Bienville, Louisiana",
-        "status": "FRAC STG 23",
+        "status": "PERF STG 41 AT REPORT TIME",
         "phase": "Fracking",
-        "reportDate": "2026/3/18",
+        "reportDate": "2026/3/22",
         "currentMD": 25090,
-        "currentTVD": 14930.2,
+        "currentTVD": 14615.3,
         "plannedVertical": 14930.2,
         "plannedHorizontal": 10159.8,
-        "actualVertical": 14930.2,
-        "actualHorizontal": 10159.8,
-        "costIncurred": 2987804.81,
+        "actualVertical": 14615.3,
+        "actualHorizontal": 10474.7,
+        "costIncurred": 4603902.47,
         "estimatedCost": 7659000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Completed frac stages 20-23 of 73. Stage 20 stopped at 80% due to extended pump time. Stage 21 perforated with no plug. Stages 22 and 23 completed successfully with 100% proppant placed."
+        "dailyNotes": "Completed fracking stages 35-40, perforated stage 41. Experienced equipment shutdown due to leak on low pressure flange and check valve issues."
     },
     {
         "id": "W-20260318",
@@ -40,23 +40,23 @@ const wellsData = [
         "dailyNotes": "Haul out remaining sand boxes and PU frac containments. Well and location secure, SDFN and wait on RUFB."
     },
     {
-        "id": "W-20260318",
+        "id": "W-20260322",
         "wellName": "DAVIES 23-14-11HC NO. 1 ALT",
         "isActive": true,
         "location": "Bienville, Louisiana",
-        "status": "RDMO frac and supporting services",
+        "status": "Plug 65 of 65 completed, circulation operations",
         "phase": "Fracking",
-        "reportDate": "2026/3/17",
-        "currentMD": 21876,
+        "reportDate": "2026/3/22",
+        "currentMD": 21855,
         "currentTVD": 12905.8,
-        "plannedVertical": null,
-        "plannedHorizontal": null,
+        "plannedVertical": 12905.8,
+        "plannedHorizontal": 8970.2,
         "actualVertical": 12905.8,
-        "actualHorizontal": null,
-        "costIncurred": 5361022.18,
+        "actualHorizontal": 8970.2,
+        "costIncurred": 5548191.21,
         "estimatedCost": 6384000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Hauled out remaining sand boxes and picked up frac containments. Well and location secured, waiting on rig up frac blender."
+        "dailyNotes": "Completed plugs 11-65 of 65 total, washed down to plug PBTD, circulated well clean, performed circulation operations with dyed sweeps, prepared to pull out of hole"
     }
 ];
