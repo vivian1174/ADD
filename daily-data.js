@@ -1,23 +1,23 @@
 const wellsData = [
     {
-        "id": "W-20260409",
+        "id": "W-20260411",
         "wellName": "WY CO 2-35-26HC NO. 1",
         "isActive": true,
         "location": "Bienville, Louisiana",
         "status": "FB Ops",
         "phase": "Fracking",
-        "reportDate": "2026/4/9",
+        "reportDate": "2026/4/10",
         "currentMD": 25090,
         "currentTVD": 14615,
         "plannedVertical": 14930,
         "plannedHorizontal": 10160,
         "actualVertical": 14615,
         "actualHorizontal": 10475,
-        "costIncurred": 8131743,
+        "costIncurred": 8154626,
         "estimatedCost": 7659000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "FB Ops Day 2 - Flowing gas to sales and water to tanks, checking choke sizes from 13/64 to 17/64, production ramping up from 720 mcf/d to 7824 mcf/d throughout the day"
+        "dailyNotes": "FB Ops Day 3, flowing gas to sales at 10,848 mcf/d, water production 70 bbl/hr, choke size 19/64, performing lube and bleed operations with OBM"
     },
     {
         "id": "W-20260409",
