@@ -6,18 +6,18 @@ const wellsData = [
         "location": "Bienville, Louisiana",
         "status": "FB Ops",
         "phase": "Fracking",
-        "reportDate": "2026/4/10",
+        "reportDate": "2026/4/11",
         "currentMD": 25090,
         "currentTVD": 14615,
         "plannedVertical": 14930,
         "plannedHorizontal": 10160,
         "actualVertical": 14615,
         "actualHorizontal": 10475,
-        "costIncurred": 8154626,
+        "costIncurred": 8186057,
         "estimatedCost": 7659000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "FB Ops Day 3, flowing gas to sales at 10,848 mcf/d, water production 70 bbl/hr, choke size 19/64, performing lube and bleed operations with OBM"
+        "dailyNotes": "FB Ops Day 4 - Lube & Bleed operations on intermediate casing. Gas production averaging 10,000-16,000 mcf/d with water production 68-79 bbl/hr. Choke size adjusted from 19/64 to 21/64. Performing pressure control operations with OBM."
     },
     {
         "id": "W-20260409",
