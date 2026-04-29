@@ -1,23 +1,23 @@
 const wellsData = [
     {
-        "id": "W-20260428",
+        "id": "W-20260430",
         "wellName": "WY CO 2-35-26HC NO. 1",
         "isActive": true,
-        "location": "Bienville, Louisiana",
+        "location": "Bienville Parish, Louisiana",
         "status": "TI OPS",
         "phase": "Fracking",
-        "reportDate": "2026/4/28",
+        "reportDate": "2026/4/29",
         "currentMD": 25090,
         "currentTVD": 14615,
         "plannedVertical": 14930,
         "plannedHorizontal": 10160,
         "actualVertical": 14615,
         "actualHorizontal": 10475,
-        "costIncurred": 8972249,
+        "costIncurred": 9870972.75,
         "estimatedCost": 7659000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "Tubing intervention operations. Set packer at 14,195', performed negative test successfully. Rigged up workover unit, tested BOPs, started running 2-7/8\" production tubing with filtered 10 PPG brine."
+        "dailyNotes": "HSM, RIH w/prod tbg, SL pull PTP, spaced out, pump pkr fluid, land tbg & tested pkr/on-off tool, start RD WOR at report time"
     },
     {
         "id": "W-20260409",
