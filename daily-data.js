@@ -1,23 +1,23 @@
 const wellsData = [
     {
-        "id": "W-20260430",
+        "id": "W-20260502",
         "wellName": "WY CO 2-35-26HC NO. 1",
         "isActive": true,
         "location": "Bienville, Louisiana",
-        "status": "TI ops",
+        "status": "TTS",
         "phase": "Fracking",
-        "reportDate": "2026/4/30",
+        "reportDate": "2026/5/1",
         "currentMD": 25090,
         "currentTVD": 14615,
         "plannedVertical": 14930,
         "plannedHorizontal": 10160,
         "actualVertical": 14615,
         "actualHorizontal": 10475,
-        "costIncurred": 9900833,
+        "costIncurred": 9897931,
         "estimatedCost": 7659000,
         "rop": 0,
         "mudWeight": 0,
-        "dailyNotes": "HSM operations, rigged down WOR, installed production tree and tested, pulled PTPs from packer tailpipe, ran sales line and tied in intermediate CSG line, tested FBE and secured well"
+        "dailyNotes": "Completed FBE and half stack installation, pressure tested to 14,500 psi successfully, gassed out well and initiated production flow to sales with gas rates ranging 5,472-9,408 mcf/d"
     },
     {
         "id": "W-20260409",
